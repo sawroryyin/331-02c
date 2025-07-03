@@ -32,6 +32,17 @@
       "time": "11:00",
       "petsAllowed": false,
       "organizer": "Carey Wales"
+    },
+    {
+      "id": 6721345,
+      "category": "education",
+      "title": "Wildlife Conservation Talk",
+      "description": "Learn about local wildlife and how to protect their habitats.",
+      "location": "Green Hall, Eco Center",
+      "date": "October 9, 2022",
+      "time": "15:00",
+      "petsAllowed": false,
+      "organizer": "Dr. Fauna Wilde"
     }
   ]
 }
