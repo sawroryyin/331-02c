@@ -1,27 +1,29 @@
-[
-    {
-        "id": 123,
-        "description": "Antique Vase",
-        "type": "Collectible"
-    },
-    {
-        "id": 456,
-        "description": "Vintage Watch",
-        "type": "Luxury"
-    },
-    {
-        "id": 789,
-        "description": "Painting by Local Artist",
-        "type": "Art"
-    },
-    {
-        "id": 1001,
-        "description": "Rare Comic Book",
-        "type": "Collectible"
-    },
-    {
-        "id": 1002,
-        "description": "Handmade Wooden Chair",
-        "type": "Furniture"
-    }
-]
+{
+    "auctionItems": [
+        {
+            "id": 123,
+            "description": "Antique Vase",
+            "type": "Collectible"
+        },
+        {
+            "id": 456,
+            "description": "Vintage Watch",
+            "type": "Luxury"
+        },
+        {
+            "id": 789,
+            "description": "Painting by Local Artist",
+            "type": "Art"
+        },
+        {
+            "id": 1001,
+            "description": "Rare Comic Book",
+            "type": "Collectible"
+        },
+        {
+            "id": 1002,
+            "description": "Handmade Wooden Chair",
+            "type": "Furniture"
+        }
+    ]
+}
